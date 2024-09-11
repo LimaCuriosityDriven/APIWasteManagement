@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O8jDz3a1ZJfUWJ0VqSg6FZFbOzdXTWJH00+y7hCLSyo=",
+  "Source": "Fiap.Api.WasteManagementApplication",
+  "BasePath": "_content/Fiap.Api.WasteManagementApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

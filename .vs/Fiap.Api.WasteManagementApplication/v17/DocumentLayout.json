@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Controllers\\GarbageCollectionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\GarbageCollectionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Data\\Repository\\IGarbageCollectionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Repository\\IGarbageCollectionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Data\\Repository\\GarbageCollectionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Repository\\GarbageCollectionRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Services\\GarbageCollectionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\GarbageCollectionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Services\\IGarbageCollectionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\IGarbageCollectionService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGarbageCollectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Data\\Repository\\IGarbageCollectionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\IGarbageCollectionRepository.cs",
+              "ToolTip": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Data\\Repository\\IGarbageCollectionRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\IGarbageCollectionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:58:59.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GarbageCollectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Data\\Repository\\GarbageCollectionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\GarbageCollectionRepository.cs",
+              "ToolTip": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Data\\Repository\\GarbageCollectionRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\GarbageCollectionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:59:03.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GarbageCollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Controllers\\GarbageCollectionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GarbageCollectionController.cs",
+              "ToolTip": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Controllers\\GarbageCollectionController.cs",
+              "RelativeToolTip": "Controllers\\GarbageCollectionController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:58:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGarbageCollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Services\\IGarbageCollectionService.cs",
+              "RelativeDocumentMoniker": "Services\\IGarbageCollectionService.cs",
+              "ToolTip": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Services\\IGarbageCollectionService.cs",
+              "RelativeToolTip": "Services\\IGarbageCollectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:58:06.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GarbageCollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Services\\GarbageCollectionService.cs",
+              "RelativeDocumentMoniker": "Services\\GarbageCollectionService.cs",
+              "ToolTip": "C:\\Users\\Lima\\OneDrive\\\u00C1rea de Trabalho\\FIAP C#\\Fiap.Api.WasteManagementApplication\\Services\\GarbageCollectionService.cs",
+              "RelativeToolTip": "Services\\GarbageCollectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:57:59.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
